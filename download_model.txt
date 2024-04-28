@@ -1,0 +1,14 @@
+1. Put this in here: ./insightface_func/models/antelope ## Onnx models should be in antelope folder
+
+https://onedrive.live.com/?authkey=%21ADJ0aAOSsc90neY&cid=4A83B6B633B029CC&id=4A83B6B633B029CC%215837&parId=4A83B6B633B029CC%215834&action=locate
+
+
+2. Put this in here: ./parsing_model/checkpoint # pth file should be in checkpoint folder
+
+https://drive.google.com/file/d/154JgKpzCPW82qINcVieuPH3fZ2e0P812/view
+
+
+3. Copy the arcface_checkpoint.tar into ./arcface_model - pw: jd2v
+
+Unzip checkpoints.zip, place it in the root dir ./checkpoints
+https://drive.google.com/drive/folders/1jV6_0FIMPC53FZ2HzZNJZGMe55bbu17R?usp=sharing
